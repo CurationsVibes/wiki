@@ -1,28 +1,30 @@
-# Welcome to CURATIONS Wiki
+# Welcome to CURATIONS
 
-Welcome to the official CURATIONS organization Wiki! This is your central hub for information, documentation, and resources.
+Human × AI Creative Dual-Powerhouse based in Los Angeles.
 
-## 🎯 Quick Links
+## What We Do
 
-- [About CURATIONS](About.md) - Learn about our organization
-- [Getting Started](Getting-Started.md) - New member onboarding
-- [Resources](Resources.md) - Helpful links and tools
-- [Contact](Contact.md) - Get in touch with us
+CURATIONS operates as a dual-powerhouse organization:
 
-## 📚 What You'll Find Here
+1. **Creative Agency** - Human × AI Creative Agency with public-facing AI Curators
+2. **Curator Communities** - Local media platforms (flagship: [CurationsLA](https://la.curations.cc))
 
-This Wiki serves as the knowledge base for CURATIONS. Here you'll find:
+## Our Approach
 
-- Organization information and mission
-- Guidelines and best practices
-- Documentation and tutorials
-- Resources and tools
-- Contact information and support
+- **Mission**: "Do the next right thing, digitally"
+- **Philosophy**: "Good Vibes Only" — community-positive, celebratory, discovery-first content
+- **Innovation**: Transparent Human × AI collaboration with clear capability disclosures
+- **Education**: Youth Curator Program with ethics-first AI curriculum
 
-## 🚀 Getting Started
+## Explore the Wiki
 
-If you're new to CURATIONS, start with our [Getting Started](Getting-Started.md) guide to learn how to get involved.
+- [Organizational Structure](Organizational-Structure) - Learn about our dual-powerhouse model
+- [Youth Curator Program](Youth-Curator-Program) - Paid roles for high school students
+- [Mission & Values](Mission-and-Values) - Our guiding principles
+- [Technical Innovation](Technical-Innovation) - Our AI and technology approach
+- [Business Model](Business-Model) - How we create value
+- [AI Transparency & Ethics](AI-Transparency-and-Ethics) - Our ethical framework
 
 ---
 
-*This Wiki is continuously updated. If you notice any issues or have suggestions, please reach out to the team.*
+*This Wiki serves as the public handbook for CURATIONS' framework and operations.*

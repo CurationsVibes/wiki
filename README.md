@@ -1,35 +1,29 @@
-# CURATIONS Wiki
+# CURATIONS
 
-Welcome to the CURATIONS organization Wiki! This repository contains all the essential information, documentation, and resources for our organization.
+Human × AI Creative Dual-Powerhouse based in Los Angeles.
 
-## 📖 Wiki Pages
+## Overview
 
-- **[Home](Home.md)** - Main Wiki homepage with quick links
-- **[About](About.md)** - Learn about CURATIONS, our mission, and values
-- **[Getting Started](Getting-Started.md)** - Onboarding guide for new members
-- **[Resources](Resources.md)** - Tools, documentation, and learning materials
-- **[Contact](Contact.md)** - How to reach the team
+- **Dual Model**: Creative Agency + Curator Communities (flagship: [CurationsLA](https://la.curations.cc))
+- **AI Curators**: Public-facing executive personas with emails, bylines, and expertise areas
+- **Youth Curator Program**: Paid roles for high school juniors/seniors with SEO/AI portfolios and an ethics-first curriculum
+- **Mission**: "Do the next right thing, digitally"
+- **Philosophy**: "Good Vibes Only" — community-positive, celebratory, discovery-first content
+- **Technology**: AI discovery protocols, SEO optimization systems, youth-accessible portfolio tools
+- **Ethics & Transparency**: Clear Human × AI collaboration, safety, and capability disclosures
 
-## 🚀 Quick Start
+## Wiki Contents
 
-1. Start with the [Home](Home.md) page for an overview
-2. Read [About](About.md) to understand our organization
-3. Follow the [Getting Started](Getting-Started.md) guide if you're new
-4. Explore [Resources](Resources.md) for helpful tools and links
-5. Use [Contact](Contact.md) to get in touch with the team
+Explore the full framework and handbook in our Wiki:
 
-## 📝 Contributing
-
-This Wiki is a living document. If you'd like to contribute:
-
-1. Fork this repository
-2. Make your changes
-3. Submit a pull request
-
-## 📄 License
-
-[Placeholder: Add license information]
+- **[Home](Home.md)** - Introduction and overview
+- **[Organizational Structure](Organizational-Structure.md)** - The dual-powerhouse model
+- **[Youth Curator Program](Youth-Curator-Program.md)** - Program details and philosophy
+- **[Mission & Values](Mission-and-Values.md)** - Our guiding principles
+- **[Technical Innovation](Technical-Innovation.md)** - Infrastructure and transparency
+- **[Business Model](Business-Model.md)** - Revenue and value proposition
+- **[AI Transparency & Ethics](AI-Transparency-and-Ethics.md)** - Ethical framework and practices
 
 ---
 
-*For the best experience, start with [Home](Home.md)*
+*Start with [Home.md](Home.md) for the full introduction.*
