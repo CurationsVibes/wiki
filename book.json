@@ -1,0 +1,47 @@
+{
+  "title": "CURATIONS Handbook",
+  "description": "A Human × AI Creative Dual-Powerhouse in Los Angeles - Documentation of our model, programs, ethics, and technical foundations",
+  "author": "CURATIONS Team",
+  "language": "en",
+  "gitbook": ">=3.2.3",
+  "plugins": [
+    "edit-link",
+    "github",
+    "anchorjs",
+    "sharing",
+    "fontsettings",
+    "livereload"
+  ],
+  "pluginsConfig": {
+    "edit-link": {
+      "base": "https://github.com/CurationsVibes/wiki/blob/main",
+      "label": "Edit This Page"
+    },
+    "github": {
+      "url": "https://github.com/CurationsVibes/wiki"
+    },
+    "sharing": {
+      "facebook": true,
+      "twitter": true,
+      "linkedin": true,
+      "weibo": false,
+      "instapaper": false,
+      "vk": false,
+      "all": [
+        "facebook",
+        "google",
+        "twitter",
+        "linkedin"
+      ]
+    }
+  },
+  "structure": {
+    "readme": "README.md",
+    "summary": "SUMMARY.md"
+  },
+  "variables": {
+    "company": "CURATIONS",
+    "tagline": "Human × AI Creative Dual-Powerhouse",
+    "location": "Los Angeles"
+  }
+}
