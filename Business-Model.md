@@ -1,21 +1,13 @@
-# Business Model
+# Business Model Integration
 
-## Dual-Revenue Model
+## Revenue Streams
+1. Agency Services: Creative and marketing work enhanced by AI
+2. Brand Partnerships: Collaborations via the Youth Curator program
+3. Media Platform: CurationsLA and future Curator Community expansions
+4. Portfolio/Training Services: SEO-enabled portfolio systems for Youth Curators
 
-### Creative Agency Services
-- Product development consulting
-- Marketing strategy development
-- Content creation and curation
-- Human × AI collaboration consulting
-
-### Curator Communities
-- Local media platform (CurationsLA)
-- Hyper-local content and discovery
-- Community engagement and events
-- Brand partnerships and collaborations
-
-## Unique Value Proposition
-- Transparent Human × AI collaboration model
-- Youth Curator Program for authentic perspectives
-- "Good Vibes Only" content philosophy
-- Ethics-first approach to AI implementation
+## Competitive Advantages
+- First-mover in transparent Human × AI agency model
+- Youth talent pipeline with built-in training
+- Authentic local media presence
+- Ethical AI positioning in a market concerned about AI safety
