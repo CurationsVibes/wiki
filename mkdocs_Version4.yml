@@ -1,0 +1,8 @@
+site_name: Curations Wiki
+site_url: https://curationsvibes.github.io/wiki/
+repo_name: CurationsVibes/wiki
+repo_url: https://github.com/CurationsVibes/wiki
+theme:
+  name: material
+nav:
+  - Home: index.md
